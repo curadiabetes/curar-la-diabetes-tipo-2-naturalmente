@@ -77,4 +77,5 @@ Si la persona es naturalmente sana, su condición puede revertirse inmediatament
 
 **Referencias:**
 https://www.nhs.uk/conditions/gestational-diabetes/
+
 https://www.mayoclinic.org/es-es/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011
