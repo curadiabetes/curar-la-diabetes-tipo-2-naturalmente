@@ -5,7 +5,7 @@ Cómo curar la diabetes mellitus con remedios naturales
 
 La diabetes mellitus tipo 2 es una condición que muestra una lectura de glucosa constantemente alta en el medidor. Esta afección ocurre debido a la incapacidad del páncreas para funcionar correctamente y producir cantidades suficientes de insulina.
 
-Visite (http://curadiabetes.net curadiabetes.net) para obtener más información sobre cómo curar la diabetes mellitus tipo 2 de forma natural y segura sin medicamentos peligrosos.
+Visite 'curadiabetes.net <http://curadiabetes.net>'_ para obtener más información sobre cómo curar la diabetes mellitus tipo 2 de forma natural y segura sin medicamentos peligrosos.
 
 Cada año, muchas personas son diagnosticadas con diabetes tipo 2, mientras que muchas más no son conscientes de que esta enfermedad crece silenciosamente dentro de su cuerpo. Los síntomas son tan sutiles que pueden descartarse fácilmente como no importantes.
 
