@@ -47,7 +47,9 @@ Los pacientes dependientes de insulina son casos con diabetes avanzada que tiene
 
 Las personas a las que se les diagnostica el tipo 2 generalmente tienen exceso de peso u obesidad y son consumidores habituales de alimentos y bebidas con alto contenido de azúcar mientras comen más de lo que necesitan. También consumen comidas rápidas como hamburguesas, pizzas y coca-cola diariamente.
 
-En esta condición, el páncreas todavía puede producir algo de insulina, pero el funcionamiento se ha visto obstaculizado debido a la elección de hábitos por parte de la persona. Cuando hay más calorías que las necesarias se consumen a diario sin ningún uso para ellos, se almacenan como las grasas en los órganos y los músculos. Estas grasas comienzan a interferir con el funcionamiento normal de los órganos y causan una interrupción en el buen funcionamiento de las enzimas y las hormonas. El órgano tiene que trabajar muy duro solo para mantener su función diaria normal. Esto agota el órgano después de un tiempo y causa tales enfermedades.
+En esta condición, el páncreas todavía puede producir algo de insulina, pero el funcionamiento se ha visto obstaculizado debido a la elección de hábitos por parte de la persona. Cuando hay más calorías que las necesarias se consumen a diario sin ningún uso para ellos, se almacenan como las grasas en los órganos y los músculos. 
+
+Estas grasas comienzan a interferir con el funcionamiento normal de los órganos y causan una interrupción en el buen funcionamiento de las enzimas y las hormonas. El órgano tiene que trabajar muy duro solo para mantener su función diaria normal. Esto agota el órgano después de un tiempo y causa tales enfermedades.
 
 El tipo 2 se puede revertir con éxito tomando medicamentos regularmente junto con cambios en el estilo de vida. Los cambios pueden ser incómodos al principio, pero si el paciente se apega a ellos, seguramente puede curar su cuerpo de diabetes y llevar una vida sana de nuevo.
 
