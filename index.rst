@@ -9,6 +9,8 @@ Visite `curadiabetes.net <http://curadiabetes.net>`_ para obtener más informaci
 
 Cada año, muchas personas son diagnosticadas con diabetes tipo 2, mientras que muchas más no son conscientes de que esta enfermedad crece silenciosamente dentro de su cuerpo. Los síntomas son tan sutiles que pueden descartarse fácilmente como no importantes.
 
+'This is a link <https://google.com/>'_
+
 A diferencia de otras enfermedades que se limitan a una sola parte del cuerpo y solo a uno o dos órganos, la diabetes afecta todo el cuerpo, provocando una reacción en cadena y un deterioro simultáneo en el funcionamiento de todos los órganos.
 
 Cuando a una persona realmente se le diagnostica diabetes, la enfermedad ya ha crecido a etapas avanzadas, lo que dificulta su reversión rápida. Los médicos y el paciente solo pueden controlar la afección y casi sin posibilidades de salir de ella y llevar una vida normal nuevamente.
