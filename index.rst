@@ -76,5 +76,5 @@ Algunas personas contraen la Diabetes como efecto secundario de los medicamentos
 Si la persona es naturalmente sana, su condición puede revertirse inmediatamente con la atención médica adecuada y la administración oportuna de las dosis. Pero, en última instancia, la tarea de sanar el cuerpo está en manos del paciente mismo, que debería participar activamente para recuperar su salud.
 
 **Referencias:**
-'<https://www.nhs.uk/conditions/gestational-diabetes/>'_
-'<https://www.mayoclinic.org/es-es/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011>'_
+https://www.nhs.uk/conditions/gestational-diabetes/
+https://www.mayoclinic.org/es-es/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011
